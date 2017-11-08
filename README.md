@@ -50,3 +50,5 @@ public class MethodSecurityConfig extends GlobalMethodSecurityConfiguration {
     }
 }
 ```
+
+Please refer to Client Credential sample [here](https://github.com/dwong-pivotal/pcf-sso-client-cred)
