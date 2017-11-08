@@ -1,2 +1,2 @@
 
-Resoure config ![alt text](/resource.png)
+First, create resoure in PCF SSO Dashboard ![alt text](/resource.png)
