@@ -1,6 +1,6 @@
 (Assume you have created SSO service instance.) 
 
-Before cf push, create resource in PCF SSO Dashboard ![alt text](/resource.png)
+Before cf push, create resource and permissions in PCF SSO Dashboard ![alt text](/resource.png)
 
 
 Then make sure you have these dependencies 
